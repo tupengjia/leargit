@@ -1,2 +1,2 @@
-git is a software development
+git is a software .
 today is sunny.
