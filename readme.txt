@@ -1,4 +1,4 @@
-git is a software .
+git is a software development.
 today is sunny.
 add merge
 <<<<<<< HEAD
